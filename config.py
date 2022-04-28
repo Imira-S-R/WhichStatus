@@ -1,0 +1,9 @@
+FROM_EMAIL = ''
+FROM_EMAIL_PASSWORD = ''
+TO_EMAIL = ''
+
+URL = ''
+CHECK_EVERY = 0
+
+SMTP_HOST = ''
+PORT = 0
